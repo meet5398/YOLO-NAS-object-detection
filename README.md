@@ -11,7 +11,7 @@ YOLO-NAS is built on top of the YOLO object detection framework. This means that
 - Knowledge Distillation: YOLO-NAS utilizes knowledge distillation, where a large, pre-trained model is used to train a smaller, faster model, resulting in improved accuracy.
 - Distribution Focal Loss: YOLO-NAS employs distribution focal loss to improve accuracy on small objects by using a loss function that is more sensitive to errors on small objects.
 
-## YOLO-NAS Object detection from image
+# YOLO-NAS Object detection from image
 
 This repository contains code for performing object detection using the YOLO-NAS model. The YOLO-NAS model is implemented using the `super_gradients` library, an open-source computer vision training library based on PyTorch.
 
