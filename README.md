@@ -36,4 +36,6 @@ pip install -r requirements.txt
 ## Output  Demo:
 ![image](https://github.com/meet5398/YOLO-NAS-object-detection/assets/108387640/cd5d3249-bc1f-46b5-aa05-efecd4536bbb)
 
+* you can view file here : https://github.com/meet5398/YOLO-NAS-object-detection/blob/8ae4bc116cd18f6e57484bcbf32dd118aa143015/yolo-nas_image.py
+
 
