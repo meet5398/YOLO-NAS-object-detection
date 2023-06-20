@@ -38,4 +38,12 @@ pip install -r requirements.txt
 
 * you can view file here : https://github.com/meet5398/YOLO-NAS-object-detection/blob/8ae4bc116cd18f6e57484bcbf32dd118aa143015/yolo-nas_image.py
 
+#yolo-nas object detection on video 
 
+https://github.com/meet5398/YOLO-NAS-object-detection/assets/108387640/15c0da44-861b-44b9-89a1-d66b833ae7b7
+
+
+https://github.com/meet5398/YOLO-NAS-object-detection/assets/108387640/84672056-64ee-4525-a8a0-08ac54e4456c
+
+you can view .py file of vscode here: 
+you can also view google collab file: 
