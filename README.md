@@ -28,7 +28,7 @@ This repository contains code for performing object detection using the YOLO-NAS
 - OpenCV
 - Super Gradients
 
-## Install the required dependencies
+## Install the required dependencies from given file
 pip install -r requirements.txt
 
 * The script will perform object detection on the input image using the specified YOLO-NAS model and display the output image with bounding boxes around detected objects.
