@@ -45,5 +45,5 @@ https://github.com/meet5398/YOLO-NAS-object-detection/assets/108387640/15c0da44-
 
 https://github.com/meet5398/YOLO-NAS-object-detection/assets/108387640/84672056-64ee-4525-a8a0-08ac54e4456c
 
-you can view .py file of vscode here: 
-you can also view google collab file: 
+you can view .py file of vscode here: https://github.com/meet5398/YOLO-NAS-object-detection/blob/8fb7a5a3a4f3064041cfee6cec340a8ad1e9ee9b/object_detection_on_video_using_YOLO-NAS.py  <br>
+you can also view google collab file: https://github.com/meet5398/YOLO-NAS-object-detection/blob/d52eb3ac4c8062436e81439965aebe59bbcc4ddb/object_detection_using_yolo_nas_on_collab.ipynb
